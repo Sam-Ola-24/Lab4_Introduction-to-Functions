@@ -6,7 +6,7 @@ function greet(name) {
 greet("Sam");
 
 //Bonus Challenge 1 - Modification
-greet('Only the "Hello" displays when no name parameter is given');
+greet(' - Note: only the "Hello" displays when no parameter is given');
 
 //Part 2: Working with Parameters and Returning Values
 
